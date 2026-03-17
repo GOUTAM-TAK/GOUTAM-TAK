@@ -1,6 +1,6 @@
 👋 Hi, I’m Goutam Tak
-Python Backend & AI Platform Engineer | FastAPI | Generative AI | RAG Systems
-🚀 Associate Software Engineer at Sutherland Global
+Full Stack & AI Platform Engineer | FastAPI | Generative AI | RAG Systems | Java | Python | Sprint Boot
+🚀 Associate Software Engineer at Sutherland Global Digital India Private Limited
 
 With a passion for innovation and a diverse skill set, I thrive in areas like web development, app development, software engineering, and more. I bring a unique blend of creativity and technical expertise, from writing poetry to developing cutting-edge AI solutions.
 
@@ -23,6 +23,8 @@ With a passion for innovation and a diverse skill set, I thrive in areas like we
   Methodologies & Concepts
 - Microsoft .NET Technologies - 
   Application Development
+- Sprint Boot
+- Authentication - JWT Token,  Authorization - ABAC - Access control, RBAC - access control
   
 🌱 Interests - 
 Outside of engineering, I enjoy creative writing (poetry) and dance, and I’m continuously exploring new technologies in AI, backend systems, and cloud-native development.
